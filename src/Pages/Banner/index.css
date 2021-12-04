@@ -1,0 +1,55 @@
+.container{
+    width: full;
+    height: 149px;
+    
+}
+
+
+@media screen and (min-width: 319px)  {
+    .container{
+        width: full;
+    height: 109px;
+    
+    }
+    
+}
+@media screen and (min-width: 320px)  {
+    .container{
+        width: full;
+    height: 175px;
+    
+    }
+    
+}
+@media screen and (min-width: 425px)  {
+    .container{
+        width: full;
+    height: 198px;
+    
+    }
+    
+}
+@media screen and (min-width: 768px)  {
+    .container{
+        width: full;
+    height: 358px;
+    
+    }
+    
+}
+@media screen and (min-width: 1024px)  {
+    .container{
+        width: full;
+    height: 29.85rem;
+    
+    }
+    
+}
+@media screen and (min-width: 1440px)  {
+    .container{
+        width: full;
+    height: 37.3rem;
+    
+    }
+    
+}
